@@ -1,0 +1,8 @@
+{
+  "name": "BeerSidekick",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^4.1.3"
+  },
+  "description": "BeerSidekick lamdba firebase validator"
+}
