@@ -25,7 +25,7 @@ In AWS, create a new Lambda function.
 ```javascript
 {
   "authorizationToken": "",
-  "methodArn": "arn:aws:execute-api:us-east-1:192720199755:6lezrxf164/*/GET/",
+  "methodArn": "arn:...../*/GET/",
   "type": "TOKEN"
 }
 ```
