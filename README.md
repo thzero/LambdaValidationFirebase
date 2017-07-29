@@ -2,7 +2,7 @@
 
 Using the Amazon template, this shows how to valdiate a Firebase token (https://firebase.google.com/docs/auth/admin/verify-id-tokens) with NodeJs and a Lambda function.  This can then be used in API Gateway to validate API usage.
 
-##Getting Started
+## Getting Started
 
 * Clone this repository.
 * Run npm install from the project root.
@@ -30,7 +30,7 @@ In AWS, create a new Lambda function.
 }
 ```
 
-##AuthorizationToken
+## AuthorizationToken
 
 The authorization token can be fetched from via the following snippet:
 
