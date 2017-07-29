@@ -45,7 +45,7 @@ firebase.auth().currentUser.getToken(/* forceRefresh */ true).then(function(idTo
 
 See https://firebase.google.com/docs/auth/web/google-signin#redirect-mode for more info.
 
-##License
+## License
 
 MIT License
 
